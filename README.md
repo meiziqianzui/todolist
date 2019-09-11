@@ -15,6 +15,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 待办事项转为完成实现，完成事项转为代办事项
 ![image](https://github.com/meiziqianzui/todolist/tree/master/src/gif/change.gif)
 
+将一个待办事项置顶
+！[image] (https://github.com/meiziqianzui/todolist/tree/master/src/gif/sort.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
