@@ -1,5 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+这是基本的路由跳转
+![image](https://github.com/meiziqianzui/todolist/tree/master/src/gif/route.gif)
+
+增加一个代办事项add
+![image](https://github.com/meiziqianzui/todolist/tree/master/src/gif/add.gif)
+
+删除一个代办事项
+![image](https://github.com/meiziqianzui/todolist/tree/master/src/gif/delete.gif)
+
+编辑一个代办事项的内容以及截至时间
+![image](https://github.com/meiziqianzui/todolist/tree/master/src/gif/edit.gif)
+
+待办事项转为完成实现，完成事项转为代办事项
+![image](https://github.com/meiziqianzui/todolist/tree/master/src/gif/change.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
