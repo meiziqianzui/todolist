@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+}
+
+* {
+  margin:0
+}
+
+.button {
+  height:40px;
+  width:80px;
+  border: none;
+  color: white;    
+  font-size: 25px;
+  text-align: center;
+  text-decoration: none;  
+  float:right;
+  background-color: #4CAF50;
+  cursor: pointer;
+}
+
+.button1 {
+  height:60px;
+  width:30%;
+  border: none;
+  color: white;    
+  font-size: 25px;
+  margin:30px auto;
+  text-align: center;
+  text-decoration: none;  
+  background-color: #4CAF50;
+  cursor: pointer;
+  margin: 4px 2px;
+}
+
+#tasktable{
+    font-size:25px;
+    font-weight:600;
+    text-align:left;
+    border: solid 1px #4CAF50
+}
+
+.boxstyle{
+  display: inline-block;
+  width: 12%;
+  text-align: center
+}
+
+.boxstyle .ant-btn{
+  position: static;
+}
+
+.box{
+  display: inline-block;
+  width: 15%;
+}
+
+.ant-popover-inner-content{
+  width:400px;
+}
+
+#dateinput .ant-input{
+  height:40px
+}
